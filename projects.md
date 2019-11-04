@@ -10,6 +10,15 @@ permalink: /projects/
 * [D&D 5e - Smallfolk - Rivertail race](https://www.dndbeyond.com/races/79620-rivertail)
 * [Twitter - One Tweet Sermons](https://twitter.com/search?q=(%23OneTweetSermon)%20(from%3Akaldrenon)&src=typed_query)
 
+## Here are some things I make with other people:
+
+* [Celtic Not - D&D 5e Stream](https://www.twitch.tv/collections/RDpB4feEfhUvuQ?filter=collections)
+* Smallfolk - D&D 5e Game on [Insight Check](https://insightcheck.podbean.com/)
+  * [Episode 1.1](https://insightcheck.podbean.com/e/lavender-lone-ep1-pt-1/)
+  * [Episode 1.2](https://insightcheck.podbean.com/e/lavender-lone-ep1-pt-2/)
+  * [Episode 2.1](https://insightcheck.podbean.com/e/smallfolk-dnd-lavender-lone-ep-21/)
+  * [Episode 2.2](https://insightcheck.podbean.com/e/smallfolk-dnd-lavender-lone-ep-22/)
+
 ## Coming soon!
 
 * D&D 5e - Raucous Regent's Ridiculous Reliquary
