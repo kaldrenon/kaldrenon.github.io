@@ -3,3 +3,10 @@
 ---
 
 @import "minima";
+
+img.float-right {
+  float: right;
+  width: 200px;
+  padding: 10px;
+  padding-top: 0;
+}
