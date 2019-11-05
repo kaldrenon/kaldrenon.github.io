@@ -18,6 +18,7 @@ permalink: /projects/
   * [Episode 1.2](https://insightcheck.podbean.com/e/lavender-lone-ep1-pt-2/)
   * [Episode 2.1](https://insightcheck.podbean.com/e/smallfolk-dnd-lavender-lone-ep-21/)
   * [Episode 2.2](https://insightcheck.podbean.com/e/smallfolk-dnd-lavender-lone-ep-22/)
+* Insight Check - D&D Podcast [Episode from November 5, 2019](https://insightcheck.podbean.com/e/icp-20-back-from-the-shallow-grave/)
 
 ## Coming soon!
 
