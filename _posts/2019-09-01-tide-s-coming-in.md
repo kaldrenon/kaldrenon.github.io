@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tide's Coming In
+title: Turq - Tide's Coming In
 date: 2019-09-01 13:48 -0400
 ---
 _The following is a vignette of backstory for my D&D character, Turqoise Stormwave, a water genasi paladin. Enjoy!_
