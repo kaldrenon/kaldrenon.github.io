@@ -24,7 +24,7 @@ permalink: /projects/
 
 ## Coming soon!
 
-* D&D 5e - Raucous Regent's Ridiculous Reliquary
+* D&D 5e - Raucous Regent's Ridiculous Reliquary Redux
 * [Podcast - OC Do Not Steal](/oc)
 
 ---
