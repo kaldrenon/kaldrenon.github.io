@@ -3,10 +3,19 @@
 ---
 
 @import "minima";
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital@0;1&display=swap');
 
 img.float-right {
   float: right;
   width: 200px;
   padding: 10px;
   padding-top: 0;
+}
+
+// Change styles for IC letters
+.post-content.letter-content {
+  font-family: 'Alegreya Sans';
+  font-size: 1.4em;
+  font-style: italic;
+  letter-spacing: 1px;
 }
