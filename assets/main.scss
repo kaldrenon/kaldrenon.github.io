@@ -19,3 +19,16 @@ img.float-right {
   font-style: italic;
   letter-spacing: 1px;
 }
+
+.post-content.poem-content {
+  pre {
+    padding-left: 30px;
+
+    code {
+      font-family: 'Alegreya Sans';
+      font-size: 1.4em;
+      letter-spacing: 1px;
+      word-spacing: 3px;
+    }
+  }
+}
