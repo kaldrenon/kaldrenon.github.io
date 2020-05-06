@@ -11,6 +11,7 @@ permalink: /projects/
 * [D&D 5e - Smallfolk - Rivertail race](https://www.dndbeyond.com/races/79620-rivertail)
 * [Tabletop RPG - We Are Not Striving](https://kaldrenon.itch.io/we-are-not-striving)
 * [Twitter - One Tweet Sermons](https://twitter.com/search?q=(%23OneTweetSermon)%20(from%3Akaldrenon)&src=typed_query)
+* [Paintings and Drawings](/art)
 
 ## Here are some things I make with other people:
 

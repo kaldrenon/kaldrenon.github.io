@@ -30,15 +30,11 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-gallery-generator
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+gallery:
+  dir: art                # Path to the gallery
+  symlink: false          # false: copy images into _site. true: create symbolic links (saves disk space)
+  title: "Art"            # Title for gallery index page
+  title_prefix: "Art: "   # Title prefix for gallery pages. Gallery title = title_prefix + gallery_name
+  sort_field: "date_time" # How to sort galleries on the index page.
