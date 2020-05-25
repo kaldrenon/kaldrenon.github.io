@@ -1,0 +1,24 @@
+---
+layout: poem
+title: "untitled 2"
+date: "2020-05-24 22:27:17 -0400"
+---
+
+```
+here i am again
+at the unfamiliar place
+  i remember so well
+
+    sharp curves and smooth angles
+  bright shadows
+dim sunbeams
+
+  everything
+    turned
+    on its head
+    for balance
+
+i have absolutely no idea what i'm doing
+  and i've never felt
+  more confident
+```
